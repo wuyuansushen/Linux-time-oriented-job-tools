@@ -11,5 +11,5 @@ apt install at
 ## 2.Usage
 
 ```
-at [24Hour:Minute] [Month]/[Day]/[Year] < [Script_file]
+at 24Hour:Minute Month/Day/Year < Script_file
 ```
